@@ -3,8 +3,6 @@
 #include <../../src/corelib/io/qfile.h>
 #include <../../src/corelib/io/qprocess.h>
 
-//using namespace std;
-
 // This overwatches some log file as it grows.
 // When a new string with error mark substring ("!" by default) appers in it,
 // Logaloud prints the string in its own console and then feeds it to Espeak.
