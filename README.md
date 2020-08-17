@@ -12,6 +12,6 @@ Runs from a console. Like this:
   
 And every time there is something like this added to the log,
 
-    ERROR! Things are gone wrong!
+    ERROR! Things have gone wrong!
   
-It will run the espeak with the string so you'll hear "ERROR! Things are gone wrong!" with your own ears.
+It will run the espeak with the string so you'll hear _"ERROR! Things have gone wrong!"_ with your own ears.
