@@ -7,7 +7,7 @@
 // When a new string with error mark substring ("!" by default) appers in it,
 // Logaloud prints the string in its own console and then feeds it to Espeak.
 //
-// Requires Espeak to be installed of course.
+// Requires Espeak to be installed.
 int main(int argc, char* argv[])
 {
     if(argc < 2 || argc > 3){
